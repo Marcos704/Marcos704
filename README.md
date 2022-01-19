@@ -53,6 +53,11 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcos704&repo=ru_ifma_mobile&show_owner=true&theme=react" />
 </a>
 </p>
+<br>
+<p align="center">
+<a href="https://github.com/Marcos704/CollectSystem">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Marcos704&repo=PDV-Background&show_owner=true&theme=react" />
+</a> 
 </detalhes>
 
 <!--
