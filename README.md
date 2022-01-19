@@ -2,7 +2,7 @@
   <h3>Olá, eu sou o Marcos Rocha, seja bem vindo!😁</h3>
   <a href="https://github.com/Marcos704">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos704&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos704&layout=compact&langs_count=11&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos704&layout=compact&langs_count=12&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mark-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
