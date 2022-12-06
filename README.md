@@ -41,7 +41,14 @@
 
 ###  🖥️ Meu DevSetup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A">  <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor =FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
-
+###  🚀 Informações Profissionais
+<br>
+  <summary> Curriculo </summary>
+  - Baixar curriculo em pdf
+  <br>
+  <a href="https://drive.google.com/file/d/1RvxIdpWxdg-sNpssj_1iQWJooBvxFfBR/view?usp=share_link" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank">
+  </a> 
 <detalhes>
 <summary> 💥 Trabalhando em </summary>
 <br>
