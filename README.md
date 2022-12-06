@@ -48,7 +48,21 @@
   <br>
   <a href="https://drive.google.com/file/d/1RvxIdpWxdg-sNpssj_1iQWJooBvxFfBR/view?usp=share_link" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank">
-  </a> 
+  </a>
+  <br>
+  <summary> Projetos </summary>
+  <br>
+  - <a href="https://e2b5-177-47-51-122.sa.ngrok.io/FizCard/credimais.com.br/" target="_blank">
+      FizCard - Sistema para consórcio
+    </a> 
+  <br>
+  - <a href="https://e2b5-177-47-51-122.sa.ngrok.io/Frota/" target="_blank">
+      Frota - Gerenciamento de Frota
+    </a> 
+  <br>
+  - <a href="https://e2b5-177-47-51-122.sa.ngrok.io/GFitness/" target="_blank">
+      GFitness - Sistema para Academias
+    </a> 
 <detalhes>
 <summary> 💥 Trabalhando em </summary>
 <br>
