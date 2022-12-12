@@ -52,15 +52,15 @@
   <br>
   <summary> Projetos </summary>
   <br>
-  - <a href="https://e2b5-177-47-51-122.sa.ngrok.io/FizCard/credimais.com.br/" target="_blank">
+  - <a href="https://1eef-177-47-51-122.sa.ngrok.io/FizCard/credimais.com.br/" target="_blank">
       FizCard - Sistema para consórcio
     </a> 
   <br>
-  - <a href="https://e2b5-177-47-51-122.sa.ngrok.io/Frota/" target="_blank">
+  - <a href="https://1eef-177-47-51-122.sa.ngrok.io/Frota/" target="_blank">
       Frota - Gerenciamento de Frota
     </a> 
   <br>
-  - <a href="https://e2b5-177-47-51-122.sa.ngrok.io/GFitness/" target="_blank">
+  - <a href="https://1eef-177-47-51-122.sa.ngrok.io/GFitness/" target="_blank">
       GFitness - Sistema para Academias
     </a> 
 <detalhes>
