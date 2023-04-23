@@ -11,7 +11,6 @@
   <img align="center" alt="Mark-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mark-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mark-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
-  <img align="right" alt="Mark-pic" height="150" style="border-radius:50px;" src="https://i.redd.it/6rrwft1cxpb81.png?width=676&height=676">
 </div>
   
   ##
